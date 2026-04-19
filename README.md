@@ -16,15 +16,15 @@ A 2D tank game written in C using GLFW/OpenGL.
 - OpenGL
 
 ## Project structure
-- `main.c` — application entry point
-- `game.c` — core game logic
-- `render.c` — rendering
-- `input.c` — input handling
-- `tank.c` — tank behavior
-- `map.c` — map loading and processing
-- `powerup.c` — bonuses
-- `particles.c` — particle effects
-- `lighting.c` — lighting-related logic
+- `main.c` - application entry point
+- `game.c` - core game logic
+- `render.c` - rendering
+- `input.c` - input handling
+- `tank.c` - tank behavior
+- `map.c` - map loading and processing
+- `powerup.c` - bonuses
+- `particles.c` - particle effects
+- `lighting.c` - lighting-related logic
 
 ## Assets
 Maps and patrol routes are stored in `.txt` files:
